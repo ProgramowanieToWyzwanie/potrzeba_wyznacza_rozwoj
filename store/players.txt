@@ -1,0 +1,2 @@
+admin;admin@admin.pl;0192023a7bbd73250516f069df18b500;0
+User;user@user.pl;b5b73fae0d87d8b4e2573105f8fbe7bc;1
